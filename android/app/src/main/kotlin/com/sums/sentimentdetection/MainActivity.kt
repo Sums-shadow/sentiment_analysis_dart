@@ -1,0 +1,6 @@
+package com.sums.sentimentdetection
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
